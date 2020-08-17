@@ -1,8 +1,8 @@
 {
+  "homepage": "http://judyz01.github.io/covidtracker",
   "name": "covidtracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://judyz01.github.io/covidtracker",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
