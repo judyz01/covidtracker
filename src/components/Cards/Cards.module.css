@@ -10,15 +10,18 @@
 }
 
 .infected {
-  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+  border-top: 10px solid rgba(0, 0, 255, 0.75);
+  border-bottom: 10px solid rgba(0, 0, 255, 0.75);
 }
 
 .recovered{
-  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+  border-top: 10px solid rgba(0, 255, 0, 0.75);
+  border-bottom: 10px solid rgba(0, 255, 0, 0.75);
 }
 
 .deaths{
-  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+  border-top: 10px solid rgba(255, 0, 0, 0.75);
+  border-bottom: 10px solid rgba(255, 0, 0, 0.75);
 }
 
 @media only screen and (max-width: 770px) {
